@@ -1,0 +1,34 @@
+/* 
+Types of selectors::
+1. The HTML element name
+2. The ID selector - # followed by ID name
+3. The class selector - . followed by class name
+*/
+
+h1 {
+    background-color: black;
+}
+
+#text_1 {
+    color: white;
+    margin-left: 10pt;
+}
+
+#text_extra {
+    color: aqua;
+}
+
+#text_2 {
+    color: white;
+    text-align: center;
+    background-color: purple;
+    font-style: italic;
+    margin-top: -10pt;
+}
+
+#text_3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color:dodgerblue ;
+    margin-top: -10pt;
+}
